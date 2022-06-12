@@ -9,7 +9,7 @@
 ## Problems with Solution
 | Problems | Source | Solution|
 |-----------|--------|---------|
-|[Problem 1](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [solution]()|
+|[Python if-else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_problem1.py)|
 
 
 
