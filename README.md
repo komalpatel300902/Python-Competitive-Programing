@@ -4,6 +4,7 @@
 
 - [Problems with Solution](#problems-with-solution)
 - [Practice Problems](#practice-problems)
+- [Pattern Problem](#pattern-problem)
 
 ## Problems with Solution
 | Problems | Source | Solution|
@@ -17,4 +18,21 @@
 <details>
 <summary>  <b>Question</b>  </Summary>
 
+</details>
+
+<br>
+
+## Pattern Problem
+
+<details>
+<summary>  <b>Question 1</b>  </Summary>
+WAP to print the following pattern. User enters rows and columns. User enter <code> row </code> = 6 and <code> column </code> = 8. <a href = ./pattern_problem_question1.py>[ Solution ]</a>
+<pre>
+********
+*      *
+*      *
+*      *
+*      *
+********
+</pre>
 </details>
