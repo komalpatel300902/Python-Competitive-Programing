@@ -26,7 +26,7 @@
 
 <details>
 <summary>  <b>Question 1</b>  </Summary>
-WAP to print the following pattern. User enters rows and columns. User enter <code> row </code> = 6 and <code> column </code> = 8. <a href = ./pattern_problem_question1.py>[ Solution ]</a>
+WAP to print the following pattern. User enters rows and columns. User enter <code> row </code> = 6 and <code> column </code> = 8. <a href = "">[ Solution ]</a>
 <pre>
 ********
 *      *
