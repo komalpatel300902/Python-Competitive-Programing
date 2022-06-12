@@ -18,8 +18,11 @@
 ## Practice Problems
 
 <details>
-<summary>  <b>Question</b>  </Summary>
-
+<summary>  <b>Question 1</b>  </Summary>
+Given a number ‘n’, the task is to print the Fibonacci series using Python. If <code>n</code> = 9 then <code> output </code> is
+<pre>
+1 1 2 3 5 8 13 21 34
+</pre>
 </details>
 
 <br>
