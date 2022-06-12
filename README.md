@@ -9,6 +9,8 @@
 ## Problems with Solution
 | Problems | Source | Solution|
 |-----------|--------|---------|
+|[Problem 1](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [solution]()|
+
 
 
 <br>
