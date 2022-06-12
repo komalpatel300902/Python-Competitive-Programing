@@ -1,7 +1,7 @@
 # Competitive Python Programming
 
 ## Index
----
+
 - [Problems with Solution](#problems-with-solution)
 - [Practice Problems](#practice-problems)
 
