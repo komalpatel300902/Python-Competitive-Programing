@@ -19,7 +19,7 @@
 
 <details>
 <summary>  <b>Question 1</b>  </Summary>
-Given a number ‘n’, the task is to print the Fibonacci series using Python. If <code>n</code> = 9 then <code> output </code> is
+Given a number ‘n’, the task is to print the Fibonacci series using Python. If <code>n</code> = 9 then <code> output </code> is given below.  <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/practice_problem_febonacci_series.py">[solution]</a>
 <pre>
 1 1 2 3 5 8 13 21 34
 </pre>
