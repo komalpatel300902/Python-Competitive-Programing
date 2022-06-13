@@ -1,4 +1,6 @@
 '''Only used function of the list that are provided by compiler.'''
+
+
 def lst_fun(lst ,command):
     cmd_fragment = command.split()
     if cmd_fragment[0] == "insert":
