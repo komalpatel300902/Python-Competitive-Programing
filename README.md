@@ -10,7 +10,7 @@
 | Problems | Source | Solution|
 |-----------|--------|---------|
 |[Python if-else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_problem1.py)|
-
+|[write-a-function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)| HackerRank | [solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_write_a_function.py)
 
 
 <br>
