@@ -10,9 +10,10 @@
 | Problems | Source | Solution|
 |-----------|--------|---------|
 |[Python if-else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_problem1.py)|
-|[Write-a-function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_write_a_function.py)
-|[List-comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_list_comprehension.py)
-|[Find-second-maximum-number-in-a-list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_second_highest_number.py)|
+|[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_write_a_function.py)
+|[List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_list_comprehension.py)
+|[Find second maximum number in a list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_second_highest_number.py)|
+|[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)|HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_find_the_percntage.py)|
 <br>
 
 ## Practice Problems
