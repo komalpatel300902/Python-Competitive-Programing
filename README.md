@@ -108,3 +108,16 @@ WAP to print the following pattern. User enters rows and columns. User enter <co
 ********
 </pre>
 </details>
+
+<details>
+<summary>  <b>Question 3</b>  </Summary>
+WAP to print the following pattern. User enters rows. User enter <code> row </code> = 5 then <code>output</code> is : <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/pattern_problem_pyramid.py">[ Solution ]</a>
+<pre>
+    *
+   ***
+  *****
+ *******
+*********
+</pre>
+</details>
+
