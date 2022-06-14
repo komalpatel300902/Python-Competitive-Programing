@@ -15,6 +15,7 @@
 |[Find second maximum number in a list](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_second_highest_number.py)|
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)|HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_find_the_percntage.py)|
 |[Python lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_python_list.py)|
+|[Swap Case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_swap_case.py)
 
 <br>
 
