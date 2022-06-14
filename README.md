@@ -9,6 +9,7 @@
 ## Problems with Solution
 | Problems | Source | Solution|
 |-----------|--------|---------|
+|[HackerRank Logo](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_text_alignment.py)|
 |[Python if-else](https://www.hackerrank.com/challenges/py-if-else/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_problem1.py)|
 |[Write a function](https://www.hackerrank.com/challenges/write-a-function/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_write_a_function.py)
 |[List comprehensions](https://www.hackerrank.com/challenges/list-comprehensions/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_list_comprehension.py)
@@ -16,6 +17,7 @@
 |[Finding the percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem?isFullScreen=true)|HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_find_the_percntage.py)|
 |[Python lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_python_list.py)|
 |[Swap Case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_swap_case.py)
+
 
 <br>
 
@@ -32,9 +34,39 @@ Given a number ‘n’, the task is to print the Fibonacci series using Python. 
 <br>
 
 ## Pattern Problem
-
 <details>
 <summary>  <b>Question 1</b>  </Summary>
+WAP to print the following pattern. User enters thickness as Input. User enter <code> thickness </code> = 5. <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_text_alignment.py">[ Solution ]</a>
+<pre>
+    H
+   HHH
+  HHHHH
+ HHHHHHH
+HHHHHHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHHHHHHHHHHHHHHHHHHHHHH
+  HHHHHHHHHHHHHHHHHHHHHHHHH
+  HHHHHHHHHHHHHHHHHHHHHHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+  HHHHH               HHHHH
+                    HHHHHHHHH
+                     HHHHHHH
+                      HHHHH
+                       HHH
+                        H
+</pre>
+</details>
+<details>
+<summary>  <b>Question 2</b>  </Summary>
 WAP to print the following pattern. User enters rows and columns. User enter <code> row </code> = 6 and <code> column </code> = 8. <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/pattern_problem_question1.py">[ Solution ]</a>
 <pre>
 ********
