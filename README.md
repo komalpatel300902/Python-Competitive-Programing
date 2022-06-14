@@ -32,13 +32,13 @@ Given a number ‘n’, the task is to print the Fibonacci series using Python. 
 </details>
 <details>
 <summary>  <b>Question 2</b>  </Summary>
-Given an integer, n , print the following values for each integer  from Integer to :
+Given an integer, n , print the following values for each integer  from 1 to n in :
 
-1. Decimal<br>
-1. Octal<br>
-1. Hexadecimal (capitalized)<br>
-1. Binary.
-practice_problem_febonacci_series.py
+1. Decimal form<br>
+1. Octal form<br>
+1. Hexadecimal (capitalized) form<br>
+1. Binary form.
+
 If <code>n</code> = 17 then <code> output </code> is given below.  <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/practice_problem_conversion_to_other_neumeric_forms.py">[solution]</a>
 <pre>
  1   1   1      1
