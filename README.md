@@ -25,6 +25,7 @@
 |[String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/practice_problem_string_validator.py)
 |[Welcome Pattern](https://www.hackerrank.com/challenges/designer-door-mat/problem?isFullScreen=true&h_r=next-challenge&h_v=zen)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/beautiful_pattern.py)|
 |[Find Second lowest Number](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=false) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/find_second_lowest_number.py)|
+|[Find Day Name using Date](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=false&h_r=next-challenge&h_v=zen)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/find_day_with_day_name.py)
 
 <br>
 
