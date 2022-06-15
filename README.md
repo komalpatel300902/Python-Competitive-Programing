@@ -126,3 +126,24 @@ WAP to print the following pattern. User enters rows. User enter <code> row </co
 </pre>
 </details>
 
+<details>
+<summary>  <b>Question 4</b>  </Summary>
+WAP to print the following pattern. User enters half rows. User enter <code> half row </code> = 7 then <code>output</code> is : <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/pattern_problem_dimond.py">[ Solution ]</a>
+<pre>
+      *
+     ***
+    *****
+   *******
+  *********
+ ***********
+*************
+*************
+ ***********
+  *********
+   *******
+    *****
+     ***
+      *
+</pre>
+</details>
+
