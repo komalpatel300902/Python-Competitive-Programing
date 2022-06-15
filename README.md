@@ -7,6 +7,9 @@
 - [Pattern Problem](#pattern-problem)
 
 ## Problems with Solution
+
+#### Warning  : The Solution given below are mine if you copy and paste it as Your Answer your account might get banned.<br>
+
 | Problems | Source | Solution|
 |-----------|--------|---------|
 |[HackerRank Logo](https://www.hackerrank.com/challenges/text-alignment/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_text_alignment.py)|
