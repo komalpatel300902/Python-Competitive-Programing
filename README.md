@@ -150,7 +150,7 @@ WAP to print the following pattern. User enters half rows. User enter <code> hal
 
 <details>
 <summary>  <b>Question 5</b>  </Summary>
-WAP to print the following pattern. User enters rows that is always <code>odd</code> and column is 3*<code>row</code> . User enter <code> row </code> = 9 then <code>output</code> is : <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/beautiful_pattern.py">[ Solution ]</a>
+WAP to print the following pattern. User will only enter number of rows that is always <code>odd</code> and column is 3*<code>row</code> . User enter <code> row </code> = 9 then <code>output</code> is : <a href = "https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/beautiful_pattern.py">[ Solution ]</a>
 <pre>
 ------------.|.------------
 ---------.|..|..|.---------
