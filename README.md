@@ -21,7 +21,8 @@
 |[Python lists](https://www.hackerrank.com/challenges/python-lists/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_python_list.py)|
 |[Swap Case](https://www.hackerrank.com/challenges/swap-case/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_swap_case.py)|
 |[Python String Formatting](https://www.hackerrank.com/challenges/python-string-formatting/problem)| HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/practice_problem_conversion_to_other_neumeric_forms.py)|
-|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)| HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_text_wrap.py)
+|[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem?isFullScreen=true)| HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/problem_with_solution_text_wrap.py)|
+|[String Validators](https://www.hackerrank.com/challenges/string-validators/problem?isFullScreen=true)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/practice_problem_string_validator.py)
 
 
 <br>
