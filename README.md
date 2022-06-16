@@ -27,7 +27,8 @@
 |[Find Second lowest Number](https://www.hackerrank.com/challenges/nested-list/problem?isFullScreen=false) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/find_second_lowest_number.py)|
 |[Find Day Name using Date](https://www.hackerrank.com/challenges/calendar-module/problem?isFullScreen=false&h_r=next-challenge&h_v=zen)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/find_day_with_day_name.py)|
 |[Print the String in specified manner](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/string_format.py)|
-|[py collections ordereddict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/collection_ordered_dict.py)|
+|[Py Collections Ordered Dict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/collection_ordered_dict.py)|
+|[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true)|HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/polar_coordinate.py)|
 
 <br>
 
