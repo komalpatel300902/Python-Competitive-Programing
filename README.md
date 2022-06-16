@@ -29,6 +29,7 @@
 |[Print the String in specified manner](https://www.hackerrank.com/challenges/merge-the-tools/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/string_format.py)|
 |[Py Collections Ordered Dict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/collection_ordered_dict.py)|
 |[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true)|HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/polar_coordinate.py)|
+|[Sets](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/set_problem.py)
 
 <br>
 
