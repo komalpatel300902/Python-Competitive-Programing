@@ -30,7 +30,8 @@
 |[Py Collections Ordered Dict](https://www.hackerrank.com/challenges/py-collections-ordereddict/problem?isFullScreen=true&h_r=next-challenge&h_v=zen) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/collection_ordered_dict.py)|
 |[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true)|HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/polar_coordinate.py)|
 |[Sets](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/set_problem.py)|
-|[Order Of Words](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/order_of_words.py)
+|[Order Of Words](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/order_of_words.py)|
+|[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/capitalise.py)
 
 <br>
 
