@@ -31,7 +31,8 @@
 |[Polar Coordinates](https://www.hackerrank.com/challenges/polar-coordinates/problem?isFullScreen=true)|HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/polar_coordinate.py)|
 |[Sets](https://www.hackerrank.com/challenges/no-idea/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/set_problem.py)|
 |[Order Of Words](https://www.hackerrank.com/challenges/word-order/problem?isFullScreen=true) | HackerRank| [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/order_of_words.py)|
-|[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/capitalise.py)
+|[Capitalize](https://www.hackerrank.com/challenges/capitalize/problem?isFullScreen=true) | HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/capitalise.py)|
+[Set (Discard, Remove, Pop) Function](https://www.hackerrank.com/challenges/py-set-discard-remove-pop/problem?utm_campaign=challenge-recommendation&utm_medium=email&utm_source=24-hour-campaign)| HackerRank | [Solution](https://github.com/komalpatel300902/Python-Competitive-Programing/blob/master/src/set_function.py)
 
 <br>
 
